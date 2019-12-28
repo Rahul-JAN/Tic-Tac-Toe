@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-This program is just a small game Tic-Tac-Toe using basic C graphics functions.
+This program is just a small Tic-Tac-Toe game using basic C graphics functions.
